@@ -1,6 +1,6 @@
 # Анализ музыкальных предпочтений
 
-[ipynb]https://github.com/volovik-denis/Yandex-Practicum/blob/main/Яндекс%20Музыка.ipynb)
+[ipynb](https://github.com/volovik-denis/Yandex-Practicum/blob/main/Яндекс%20Музыка.ipynb)
 
 ## Описание проекта
 
