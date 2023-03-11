@@ -1,6 +1,6 @@
 # Исследование объявлений о продаже квартир
 
-[ipynb](https://github.com/volovik-denis/Yandex-Practicum/blob/DA-03-Real-estate-price-analysis/Исследование%20объявлений%20о%20продаже%20квартир.ipynb)
+[ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2003%20Real%20estate%20price%20analysis/Исследование%20объявлений%20о%20продаже%20квартир.ipynb)
 
 ## Описание проекта
 
