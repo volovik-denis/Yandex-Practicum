@@ -1,6 +1,6 @@
 # Анализ трендов популярности игр
 
-[ipynb](https://github.com/volovik-denis/Yandex-Practicum/blob/DA-05-Games-popularity-trends-analysis/Анализ%20трендов%20популярности%20игр.ipynb)
+[ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2005%20Games%20popularity%20trends%20analysis/Анализ%20трендов%20популярности%20игр.ipynb)
 
 ## Описание проекта
 
