@@ -1,6 +1,6 @@
 # Анализ платёжеспособности заёмщиков
 
-[ipynb](https://github.com/volovik-denis/Yandex-Practicum/blob/DA-02-Bank-credit-scoring/Исследование%20надёжности%20заёмщиков.ipynb)
+[ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2002%20Bank%20credit%20scoring/Исследование%20надёжности%20заёмщиков.ipynb)
 
 ## Описание проекта
 
