@@ -1,6 +1,6 @@
 # Анализ тарифов телекоммуникационной компании
 
-[ipynb](https://github.com/volovik-denis/Yandex-Practicum/blob/DA-04-Telecom-tariff-analysis/Анализ%20тарифов%20телекоммуникационной%20компании.ipynb)
+[ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2004%20Telecom%20tariff%20analysis/Анализ%20тарифов%20телекоммуникационной%20компании.ipynb)
 
 ## Описание проекта
 
