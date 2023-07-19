@@ -11,6 +11,6 @@ ___
 - ***обработка данных***
 - ***выгрузка данных***
 ___
-![1_Baza_dannykh_1673427320])(https://github.com/volovik-denis/yandex-practicum/assets/127090466/dab156cf-2869-412d-b669-cf9b331ec883)
+![1_Baza_dannykh_1673427320](https://github.com/volovik-denis/yandex-practicum/assets/127090466/dab156cf-2869-412d-b669-cf9b331ec883)
 
 ## Описание данных
