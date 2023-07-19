@@ -1,4 +1,4 @@
-![image](https://github.com/volovik-denis/yandex-practicum/assets/127090466/6b9ee650-39af-4757-a843-370d4af05598)![image](https://github.com/volovik-denis/yandex-practicum/assets/127090466/1522892d-12b8-419c-a217-5c5bc9690b02)# Продвинутый SQL
+Продвинутый SQL
 ## Анализ информации о сервисе вопросов и ответов о программировании
 
 [ipynb]()
