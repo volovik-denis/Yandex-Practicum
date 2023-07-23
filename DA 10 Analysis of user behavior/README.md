@@ -1,6 +1,7 @@
 # Исследование рынка заведений общественного питания Москвы
 
 [ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2011%20Moscow_restaurants/Исследование%20рынка%20заведений%20общественного%20питания%20Москвы.ipynb)
+
 [Презентация](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2011%20Moscow_restaurants/Исследование%20рынка%20заведений%20общественного%20питания%20Москвы.pdf)
 
 ## Описание проекта
