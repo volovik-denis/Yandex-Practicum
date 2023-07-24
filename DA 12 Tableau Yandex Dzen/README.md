@@ -4,7 +4,7 @@
 
 [Dashboard](https://public.tableau.com/app/profile/denis.volovik/viz/-_16837954030680/_?publish=yes)
 
-[Презентация](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2012%20Dashboard_for_yandex_zen/Анализ%20взаимодействия%20пользователей%20с%20карточками%20статей%20Яндекс.Дзен.pdf)
+[Презентация](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2012%20Tableau%20Yandex%20Dzen/Анализ%20взаимодействия%20пользователей%20с%20карточками%20статей%20Яндекс.Дзен.pdf)
 
 ## Описание проекта
 
