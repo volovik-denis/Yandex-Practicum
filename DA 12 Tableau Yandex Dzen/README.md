@@ -1,6 +1,6 @@
 # Анализ взаимодействия пользователей с карточками статей Яндекс.Дзен
 
-[ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2012%20Dashboard_for_yandex_zen/Анализ%20взаимодействия%20пользователей%20с%20карточками%20статей%20Яндекс.Дзен.ipynb)
+[ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2012%20Tableau%20Yandex%20Dzen/Анализ%20взаимодействия%20пользователей%20с%20карточками%20статей%20Яндекс.Дзен.ipynb)
 
 [Dashboard](https://public.tableau.com/app/profile/denis.volovik/viz/-_16837954030680/_?publish=yes)
 
