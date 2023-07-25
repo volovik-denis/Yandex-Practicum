@@ -11,10 +11,12 @@
 - **python**
 - **pandas**
 - **numpy**
+- **matplotlib pyplot**
 - **seaborn**
 - **matplotlib**
 - **math**
 - **scipy**
+- **plotly**
 
 ## Вывод
 
