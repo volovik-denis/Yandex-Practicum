@@ -23,7 +23,7 @@
 - **python**
 - **pandas**
 - **numpy**
-- matplotlib.**pyplot**
+- **matplotlib**
 - **seaborn**
 - **scipy**
 
