@@ -11,7 +11,7 @@
 - **python**
 - **pandas**
 - **numpy**
-- matplotlib.**pyplot**
+- **matplotlib**
 - **seaborn**
 - **matplotlib**
 - **math**
