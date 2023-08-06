@@ -1,5 +1,7 @@
 # Анализ музыкальных предпочтений
 
+**Статус проект - завершён**
+
 [ipynb](https://github.com/volovik-denis/yandex-practicum/blob/main/DA%2001%20Music%20preferences%20analysis/Яндекс%20Музыка.ipynb)
 
 ## Описание проекта
